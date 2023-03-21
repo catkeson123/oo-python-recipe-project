@@ -12,7 +12,7 @@ from lib.user import *
     # i1 = Ingredient( ??? )
     # r1 = Recipe( ??? )
     # rc1 = RecipeCard( ??? )
-    # ri1 = RecipeIngredient( ??? )
+ri1 = RecipeIngredient( i1, r1 )
     # u1 = User( ??? )
 
 
